@@ -3,7 +3,7 @@
 ## Project Overview
 In this project we analyze the ride-share data using SQL and performing data management, processing and using in-depth analysis 
 find meaningful information for improving company's services and reputation from rating given by their customers. Normally, the 
-data about highly preferred pickup location, average distance of rides and rating to drivers based on services....
+data about highly preferred pickup location, average distance of rides and ratings of drivers based on their services....
 
 ## Tools and Technologies
 - **SQL**: Structured Query Language(SQL) was used for querying and managing the database.
